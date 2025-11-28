@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: aac
+Implementation-Version: 5.2.0
+Protected-Notice: AV contact email - primary@licelus.com
+Specification-Title: aac
+JAR-Signature: f+riMWIXNFE7lCOzicZhC5iteOLUri4KDsk+cYqnGLsipYZZ
+Build-Jdk-Spec: 16
+Created-By: Maven Jar Plugin 3.2.0
+Specification-Version: 5.2
+Protected-By: 9.3.19 Stringer (20191106)
+
